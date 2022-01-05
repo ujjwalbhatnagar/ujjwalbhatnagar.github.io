@@ -24,8 +24,7 @@ Research:
 Alignment Privacy to Business Objectives (Vibha Nehra Phd., Ujjwal Bhatnagar)
 
 Contact:
-- Phone +919871431352
-- Email ujjwalbhatnagar18@gmail.com
+[Email](mailto:ujjwalbhatnagar18@gmail.com) me!
 
 
 
