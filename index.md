@@ -1,7 +1,7 @@
 ## About Ujjwal Bhatnagar
 
 
-Interests- Machine Learning | Quant | Finance
+Proficiency- Machine Learning, AI, Quant Finance
 
 Work Experience:
 - Project Engineer at Wipro Technologies
