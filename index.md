@@ -1,4 +1,4 @@
-## About Ujjwal Bhatnagar
+
 
 
 Proficiency- Machine Learning, AI, Quant Finance
