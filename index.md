@@ -1,6 +1,6 @@
 ## About Ujjwal Bhatnagar
 ![Image](C:/Users/ujjwa/OneDrive/Pictures/PassportPhoto.jpg)
-* *Interest- Machine Learning | Quant | Finance
+*Interest- Machine Learning | Quant | Finance
 
 Work Experience:
 - Project Engineer at Wipro Technologies
