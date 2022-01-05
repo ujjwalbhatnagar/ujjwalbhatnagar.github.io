@@ -1,8 +1,7 @@
 ## About Ujjwal Bhatnagar
-![Image](https://media-exp1.licdn.com/dms/image/C5603AQGjk9cKyQdkUQ/profile-displayphoto-shrink_800_800/0/1641056929713?e=1646870400&v=beta&t=Ggr-fkAFnXod3ZOKbL8tVHnq9O9WQNk7-35hGVVgDCs)
 
 
-*Interest- Machine Learning | Quant | Finance
+Interests- Machine Learning | Quant | Finance
 
 Work Experience:
 - Project Engineer at Wipro Technologies
