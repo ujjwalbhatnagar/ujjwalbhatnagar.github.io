@@ -1,29 +1,36 @@
 ## Personal Website of Ujjwal Bhatnagar
 
-Interest - Machine Learning | Quant | Finance
+Interest- Machine Learning | Quant | Finance
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Work Experience:
+- Project Engineer at Wipro Technologies
+- Full Stack Dev at Social Compass
+- Researcher at TISPL
 
-### Markdown
+Education:
+Amity School of Science and Technology (B.Tech Computer Science) with specialization in Machine Learning. Grade - First Class
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Skills:
+- Python, R
+- Sklearn, Tensorflow
+- Apache Spark, Hadoop, MapReduce, Data Warehousing, DBMS
 
-```markdown
-Syntax highlighted code block
+Extra-Curricular:
+- Numerai Algotrading Competition
+- Jane Street Quiz
+- Kaggle Competitions
 
-# Header 1
-## Header 2
-### Header 3
+Research:
+Alignment Privacy to Business Objectives (Vibha Nehra Phd., Ujjwal Bhatnagar)
 
-- Bulleted
-- List
+Contact:
+- Phone +919871431352
+- Email ujjwalbhatnagar18@gmail.com
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+[Link](url) and ![Image](C:/Users/ujjwa/OneDrive/Pictures/PassportPhoto.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -32,6 +39,3 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ujjwalbhatnagar/ujjwalbhatnagar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
