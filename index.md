@@ -12,8 +12,8 @@ Education:
 Amity School of Science and Technology (B.Tech Computer Science) with specialization in Machine Learning. Grade - First Class
 
 Skills:
-- C++, Python, R, MATLAB/Octive, Stata
-- Sklearn, Tensorflow, Keras
+- C++, Python, CUDA, MATLAB/Octave, Stata
+- Sklearn, Tensorflow, Pytorch
 - Apache Spark, Hadoop, MapReduce, Data Warehousing, DBMS
 
 Extra-Curricular:
