@@ -1,10 +1,10 @@
 
 
 
-Working on- ML, AI, Algo Trading
+Projects on- ML, AI, Algo Trading
 
 Work Experience:
-- Project Engineer at Wipro Technologies
+- Project Engineer (Data Analytics & AI) at Wipro Technologies
 - Full Stack Dev at Social Compass
 - Cyber Security Research Intern at TISPL
 
