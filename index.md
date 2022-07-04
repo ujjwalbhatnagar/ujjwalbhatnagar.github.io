@@ -22,7 +22,7 @@ Extra-Curricular:
 - CCAI (Climatechange.ai) member
 
 Research:
-Alignment Privacy to Business Objectives (Vibha Nehra Phd., Ujjwal Bhatnagar)
+Alignment Privacy to Business Objectives
 
 Contact:
 [Email](mailto:ujjwalbhatnagar18@gmail.com) me!
